@@ -30,9 +30,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-shurajcodxs-projects.vercel.app/api?username=shurajcodx&show_icons=true&theme=codeSTACKr&hide_border=true&border_radius=10&short_numbers=true" alt="GitHub Stats" height="180" /> <br/>
+  <img src="https://github-readme-stats-git-main-shurajcodxs-projects.vercel.app/api?username=shurajcodx&show_icons=true&theme=codeSTACKr&hide_border=true&border_radius=10&short_numbers=true" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats-gold-three.vercel.app?user=shurajcodx&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=10&short_numbers=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
