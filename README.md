@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shurajcodx&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shurajcodx&theme=tokyonight" alt="GitHub Streak" height="180" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=shurajcodx)](https://git.io/streak-stats)
 </p>
 
 ---
