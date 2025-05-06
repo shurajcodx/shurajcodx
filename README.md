@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shuraj Shampang</h1>
-<h3 align="center">aka Shurajcodx — Full Stack Developer | Security Explorer | Creator of android-app-rating-dialog</h3>
+<h3 align="center">aka Shurajcodx — Full Stack Developer | Security Explorer</h3>
 
 <p align="center">
   <a href="https://surajrai.name.np">🌐 Portfolio</a> •
