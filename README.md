@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://surajrai.name.np">🌐 Portfolio</a> •
-  <a href="https://twitter.com/shurajcodx_">🐦 Twitter</a> •
   <a href="https://www.youtube.com/@SJDrukYT">🎮 YouTube</a> •
   <a href="https://www.linkedin.com/in/shuraj-shampang-9ab602b5/">💼 LinkedIn</a> •
-  <a href="https://app.streamersalert.com/donate/shuraj-shampang">☕ Support Me</a>
+   <a href="https://twitter.com/shurajcodx_">🐦 Twitter</a> •
+  <!-- <a href="https://app.streamersalert.com/donate/shuraj-shampang">☕ Support Me</a> -->
 </p>
 
 🧠 I'm a self-driven software engineer from Nepal 🇳🇵 who enjoys building products that solve real-world problems through **AI, automation, security, and developer productivity**.
