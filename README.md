@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shuraj Shampang</h1>
-<h3 align="center">aka Shurajcodx — Full Stack Developer | Security Explorer</h3>
+<h3 align="center">aka shurajcodx — Full Stack Engineer • Security & Automation • Open Source</h3>
 
 <p align="center">
   <a href="https://surajrai.name.np">🌐 Portfolio</a> •
@@ -9,45 +9,46 @@
   <a href="https://app.streamersalert.com/donate/shuraj-shampang">☕ Support Me</a>
 </p>
 
----
+🧠 I'm a self-driven software engineer from Nepal 🇳🇵 who enjoys building products that solve real-world problems through **AI, automation, security, and developer productivity**.
 
-🧠 I'm a self-driven developer from Nepal 🇳🇵 who loves building tools that solve real problems — especially in **security, automation, and developer productivity**.
+🔐 **Creator of [EncoraDB](https://www.npmjs.com/org/encoradb)** — an **ORM-agnostic database encryption layer for Node.js & TypeScript**, designed for automatic field-level encryption, KMS integration, and zero schema changes.
 
-🔐 **Creator of [EncoraDB](https://www.npmjs.com/org/encoradb)** — a popular **Node.js & TypeScript database encryption layer on npm**, built for automatic field-level encryption, KMS support, and zero schema changes.
+🚀 Currently building:
 
-🚀 Currently working on:
-- 🔐 **[EncoraDB](https://github.com/shurajcodx/encoradb)** — ORM-agnostic database encryption for Node.js & TypeScript
-- ⭐ **[android-app-rating-dialog](https://github.com/shurajcodx/android-app-rating-dialog)** – A simple, customizable in-app rating prompt for Android
-- 🤖 **[PRReviewerBot](https://github.com/shurajcodx/PRReviewerBot)** – AI-powered PR reviewer with security, performance, and code-quality checks
-- 🛡️ A next-gen security monitoring tool (inspired by Burp Suite, SaaS-ready)
+- 🌊 **PravahaOps** — An AI-powered operations platform that brings together CRM, Shared Inbox, Workflow Automation, Reporting, and Team Collaboration into one workspace.
+- 🔐 **[EncoraDB](https://github.com/shurajcodx/encoradb)** — ORM-agnostic database encryption for Node.js & TypeScript.
+- ⭐ **[android-app-rating-dialog](https://github.com/shurajcodx/android-app-rating-dialog)** — A lightweight, customizable in-app rating dialog for Android.
 
-💡 I believe in clean code, meaningful automation, and delivering impact through tech.
-
----
+💡 I enjoy building software that replaces complexity with clarity, whether it's a SaaS platform, an open-source library, or a developer tool.
 
 ### 🛠️ Tech Stack
-`JavaScript` `TypeScript` `Java` `SQL` `PHP` `Node.js` `Fastify` `Spring Boot` `Express` `Laravel` `React` `React Native` `Flutter` `Vue.js`  
-`PostgreSQL` `MongoDB` `MySQL` `MariaDB` `Docker` `GitHub Actions` `AWS` `Postman` `Jest`
 
----
+`TypeScript` `JavaScript` `Java` `Kotlin` `PHP` `SQL` `React` `React Native` `Vue.js` `Jetpack Compose` `Node.js` `Fastify` `Express` `Spring Boot` `Laravel`
+`PostgreSQL` `Redis` `MongoDB` `MySQL` `MariaDB` `Docker` `BullMQ` `GitHub Actions` `AWS` `Postman` `Jest`
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-shurajcodxs-projects.vercel.app/api?username=shurajcodx&show_icons=true&theme=codeSTACKr&hide_border=true&border_radius=10&short_numbers=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-gold-three.vercel.app?user=shurajcodx&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=10&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" />
+  <img src="./metrics_renders/calendar.svg" width="100%" alt="Contribution Calendar" />
 </p>
 
----
+# 💭 Engineering Principles
 
-### 🔍 Interests
-- 🛡️ Web & App Security
-- 📱 Cross-platform Development (React Native & Flutter)
-- 🤖 AI + Developer Productivity
-- 📦 Open-source tooling
-- 🌐 Building SaaS platforms
-- ⚙️ ROO (Rule of Optimization) — “Don’t optimize until you know it’s needed.”
+- 🚀 Build products, not demos.
+- 🧩 Keep software simple, maintainable, and scalable.
+- 🔐 Security should be built in, not bolted on.
+- ✨ Great user experience is a feature.
+- 🤖 Automate repetitive work whenever possible.
+- 📊 Optimize only when the data proves it's necessary.
+- 📚 Never stop learning and improving.
 
-> “Code securely. Build smart. Learn endlessly.”  
+# 🤝 Open Source
+
+Open source has played a significant role in my journey as a developer. I enjoy building tools that help developers write better software and solve real-world problems.
+
+Whether it's creating secure backend libraries like **EncoraDB**, useful Android components, or contributing ideas to the community, I believe sharing knowledge makes the ecosystem stronger.
+
+I'm always happy to receive feedback, collaborate on interesting projects, and connect with fellow developers.
+
+> **"Building software that replaces complexity with clarity."**  
 > — **Shurajcodx**
