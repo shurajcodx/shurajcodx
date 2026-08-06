@@ -23,7 +23,7 @@ jobs:
           base: ""
 
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 1
 
   city:
     name: GitHub City
