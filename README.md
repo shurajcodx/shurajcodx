@@ -124,12 +124,11 @@
 ### 📊 // LIVE TELEMETRY & SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shurajcodx&show_icons=true&theme=tokyonight&hide_border=true" alt="Shuraj's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=shurajcodx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=shurajcodx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 <p align="center">
-  <img src="./metrics_renders/calendar.svg" width="100%" alt="Contribution Telemetry Grid" />
+  <img src="https://ghchart.rshah.org/00F0FF/shurajcodx" width="100%" alt="Shuraj's Current Year Contribution Chart" />
 </p>
 
 ---
